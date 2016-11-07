@@ -12,7 +12,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
 /**
- *
+ *couche d'accés aux données pour la classe niveau
  * @author AMETH
  */
 @Stateless
